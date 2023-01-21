@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app com propósito de ajudar as pessoas a conseguir formar novos hábitos ou manter os que já existem.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Visite o projeto online](https://davismael.github.io/nlwSetup-habits)
 
 ## 🔖 Layout
 
